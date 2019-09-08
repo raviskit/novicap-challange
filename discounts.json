@@ -1,0 +1,10 @@
+[
+  {
+    "code": "VOUCHER",
+    "type": "two_for_one"
+  },
+  {
+    "code": "TSHIRT",
+    "type": "bulk_discount"
+  }
+]
